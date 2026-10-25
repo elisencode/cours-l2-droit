@@ -1,4 +1,4 @@
-# 🏛️ Licence 2 Droit — Université de Montpellier
+# 🏛️ Licence 2 Droit
 
 Dépôt centralisant les cours magistraux, travaux dirigés (TD), fiches de jurisprudence et méthodologie pour l'année universitaire.
 
@@ -29,43 +29,43 @@ Dépôt centralisant les cours magistraux, travaux dirigés (TD), fiches de juri
 ## Structurer l'arborescence des dossiers du dépôt
 
 ```Plaintext
-L2-Droit-Montpellier/
+cours-l2-droit/
 ├── README.md
-├── S3/
-│   ├── Droit_Administratif/
-│   │   ├── CM/
-│   │   ├── TD/
-│   │   └── Fiches_Arrets/
-│   ├── Droit_des_Obligations/
-│   │   ├── CM/
-│   │   ├── TD/
-│   │   └── Fiches_Arrets/
-│   ├── Droit_Penal_General/
-│   ├── Finances_Publiques/
-│   ├── Histoire_Institutions_Publiques/
-│   ├── Histoire_Droit_Obligations/
-│   ├── Histoire_Droit_Penal/
-│   ├── Philosophie_du_Droit/
-│   ├── Systemes_Juridiques_Compares/
-│   ├── Competences_Numeriques/
-│   └── Langues/
-│       ├── Anglais_Juridique/
-│       ├── Espagnol_Juridique/
-│       └── Allemand_Juridique/
-├── S4/
-│   ├── Droit_Administratif/
-│   ├── Droit_des_Obligations/
-│   ├── Droit_Penal_General/
-│   ├── Droit_Commercial/
-│   ├── Systeme_Juridique_UE/
-│   ├── Droit_Civil_Biens/
-│   ├── Grands_Problemes_Constitutionnels/
-│   ├── Histoire_Idees_Politiques/
-│   └── Pratique_IA_Commentaire/
-└── Methodologie/
-    ├── Cas_Pratique/
-    ├── Fiche_Arret/
-    └── Commentaire_Arret/
+├── s3/
+│   ├── droit-administratif/
+│   │   ├── cm/
+│   │   ├── td/
+│   │   └── fiches-arrets/
+│   ├── droit-des-obligations/
+│   │   ├── cm/
+│   │   ├── td/
+│   │   └── fiches-arrets/
+│   ├── droit-penal-general/
+│   ├── finances-publiques/
+│   ├── histoire-institutions-publiques/
+│   ├── histoire-droit-obligations/
+│   ├── histoire-droit-penal/
+│   ├── philosophie-du-droit/
+│   ├── systemes-juridiques-compares/
+│   ├── competences-numeriques/
+│   └── langues/
+│       ├── anglais-juridique/
+│       ├── espagnol-juridique/
+│       └── allemand-juridique/
+├── s4/
+│   ├── droit-administratif/
+│   ├── droit-des-obligations/
+│   ├── droit-penal-general/
+│   ├── droit-commercial/
+│   ├── systeme-juridique-ue/
+│   ├── droit-civil-biens/
+│   ├── grands-problemes-constitutionnels/
+│   ├── histoire-idees-politiques/
+│   └── pratique-ia-commentaire/
+└── methodologie/
+    ├── cas-pratique/
+    ├── fiche-arret/
+    └── commentaire-arret/
 ```
 
 
