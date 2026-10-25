@@ -28,6 +28,7 @@ Dépôt centralisant les cours magistraux, travaux dirigés (TD), fiches de juri
 
 ## Structurer l'arborescence des dossiers du dépôt
 
+```Plaintext
 L2-Droit-Montpellier/
 ├── README.md
 ├── S3/
@@ -65,6 +66,6 @@ L2-Droit-Montpellier/
     ├── Cas_Pratique/
     ├── Fiche_Arret/
     └── Commentaire_Arret/
-
+```
 
 
