@@ -68,4 +68,6 @@ cours-l2-droit/
     └── commentaire-arret/
 ```
 
+---
 
+Sources : <https://droit.edu.umontpellier.fr/formations/>
